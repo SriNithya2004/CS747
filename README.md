@@ -8,12 +8,9 @@ This repository contains my work for the CS747 course (Spring 2024-2025) at IIT 
 - [Programming Assignment 3](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-s2025/pa-3/pa3.html)
 
 ## Files Included
-- **CS747_Programming_Assignment_1.pdf**: The question for Assignment 1.
-- **CS747_Programming_Assignment_2.pdf**: The question for Assignment 2.
-- **CS747_Programming_Assignment_3.pdf**: The question for Assignment 3.
-- **CS747_PA1.tar.gz**: My solution for Assignment 1 (including submission and provided folders).
-- **CS747_PA2.tar.gz**: My solution for Assignment 2 (including submission and provided folders).
-- **CS747_PA3.tar.gz**: My solution for Assignment 3 (including submission and provided folders).
+For each of the three programming assignments, the following are provided:
+- **CS747_Programming_Assignment_{1,2,3}.pdf** – Assignment questions
+- **CS747_PA{1,2,3}.tar.gz** – My solution, including both the submission folder (`210050152`) and the original provided code
 
 ## Instructions
 - Clone this repository to your local machine using:
